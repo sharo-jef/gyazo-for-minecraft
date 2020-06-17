@@ -1,0 +1,8 @@
+# settings
+settings.ini
+
+# node
+node_modules/
+
+# vscode
+.vscode/
